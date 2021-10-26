@@ -12,7 +12,7 @@ This project was generated using [Nx](https://nx.dev).
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/nrwl/stackblitz-nx-angular)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/nrwl/stackblitz-nx-angular?preset=node)
 
 ## Quick Start & Documentation
 
